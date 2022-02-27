@@ -1,0 +1,316 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nine propositions of both Houses of Parliament concerning the raising of horse horsemen, and arms, for the defence of the King, and both Houses of Parliament. Ordered by the House of Commons, that these propositions be forthwith printed and published· H. Elsynge Cler. Parl. D. Com'. Die Jovis 2d. Junii, 1642. An order by the House of Commons assembled in Parliament to summon the members to appear the 16. day of June. 1642.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82911</idno>
+            <idno type="STC">Wing E1672A</idno>
+            <idno type="STC">ESTC R229824</idno>
+            <idno type="EEBO-CITATION">99896174</idno>
+            <idno type="PROQUEST">99896174</idno>
+            <idno type="VID">153932</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82911)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153932)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2390:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Nine propositions of both Houses of Parliament concerning the raising of horse horsemen, and arms, for the defence of the King, and both Houses of Parliament. Ordered by the House of Commons, that these propositions be forthwith printed and published· H. Elsynge Cler. Parl. D. Com'. Die Jovis 2d. Junii, 1642. An order by the House of Commons assembled in Parliament to summon the members to appear the 16. day of June. 1642.</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>England and Wales. Parliament. Proceedings. 1642-06-02.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by T[homas]. P[aine]. and M[atthew]. S[immons]. for N[athaniel]. Allen,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printers' names from Wing CD.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153932:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 28 -->
+            <p>NINE PROPOSITIONS OF Both Houſes of PARLIAMENT Concerning The
+raiſing of Horſe, Horſemen, and Arms, for the defence of the KING,
+<hi>And both Houſes of</hi> Parliament.</p>
+            <p>Ordered by the Houſe of COMMONS, That theſe Propoſitions
+be forthwith Printed and publiſhed.</p>
+            <p>
+               <hi>H. Elſynge Cler. Parl. D. Com<g ref="char:abbrapo">’</g>.</hi>
+            </p>
+            <p>
+               <hi>Die Jovis</hi> 2<hi rend="sup">d</hi>. <hi>Junii,</hi> 1642.</p>
+            <p>An Order by the Houſe of <hi>Commons</hi> aſſembled in
+<hi>Parliament</hi> to ſummon the Members to appear the 16. day of
+<hi>June.</hi> 1642.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>T. P.</hi> and <hi>M. S.</hi>
+for <hi>N. Allen.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:153932:2"/>
+            <!-- PDF PAGE 29 -->
+            <pb n="3" facs="tcp:153932:2"/>
+            <!-- PDF PAGE 29 -->
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas it appears, That the King (ſeduced by wicked
+Councell) in<g ref="char:EOLhyphen"/>tends to make Warre againſt His Parliament, and in purſuance
+ther<g ref="char:EOLhyphen"/>of, under pretence of a Guard for His Perſon, hath actually begun to
+leavy Forces both of Horſe &amp; Foot, and ſent out Summons throughout the
+County of <hi>York,</hi> for the calling together of greater numbers, and
+ſome ill<g ref="char:EOLhyphen"/>affected Perſons have been employed in other parts to raiſe
+Troops, under the colour of His Majeſties Service, making large offers of
+reward and preferment to ſuch as will come in; And that His Majeſty doth
+with a high and forcible hand protect and Keep away Delinquents, not permitting
+them to make their appearance, to anſwer ſuch affronts and injuries as have
+been by them offered unto the Parliament; and thoſe Meſſengers which have
+been ſent from the Hou<g ref="char:EOLhyphen"/>ſes for them, have been abuſed, beaten, and
+impriſoned; ſo as the Orders of Parliament, which is the highest Court of
+Iuſtice in this Kingdom are not obeyed, and the Autho<g ref="char:EOLhyphen"/>ritie of it is
+altogether ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orned and vilified; and ſuch per<g ref="char:EOLhyphen"/>ſons as ſtand well
+affected to it, &amp; declare themſelves ſen<g ref="char:EOLhyphen"/>ſible of theſe publick
+calamities, and of the violations of the Priviledges of Parliament, and common
+Liberty of the</hi> 
+               <pb n="4" facs="tcp:153932:3"/>
+               <!-- PDF PAGE 30 -->
+               <hi>Subject,
+are bafled and injured by ſeverall ſorts of malig<g ref="char:EOLhyphen"/>nant men who are about
+the King, ſome whereof, under the name of Cavaliers, without having reſpect
+to the Laws of the Land, or any fear, either of God or man, are ready to commit
+all manner of outrage and violence, which muſt needs tend to the
+diſſolution of this Government, the de<g ref="char:EOLhyphen"/>ſtroying of our Religion, Laws,
+and Liberty, and Proprie<g ref="char:EOLhyphen"/>ty, all which will be expoſed to the malice and
+violence of ſuch deſperate perſons as muſt be employed in ſo horrid
+and unnaturall an act, as the overthrowing of a Parliament by farce, which is
+the ſupport and preſervation of them: All which being duly conſidered by
+the Lords and Commons, and how great an Obligation lies upon them in Honour,
+Conſcience, and Duty, according to the high truſt repoſed in them, to
+uſe all poſsible means in ſuch caſes, for the time<g ref="char:EOLhyphen"/>ly prevention of
+ſo great &amp; irrecoverable evills, they have thought fit to publiſh their
+ſence and apprehenſion of this imminent danger, thereby to excite all well
+affected perſons to contribute their beſt aſsiſtance, according to
+their ſolemn Vow and Proteſtation, to the Preparations neceſſary for
+the oppoſing and ſuppreſsing òf the trayterous attempts of theſe
+wicked and malignant Councellors, who ſeek to engage the King in ſo
+dangerous and deſtructive an enterpriſe, and the whole Kingdom in a civill
+Warre and deſtroy the Pri<g ref="char:EOLhyphen"/>ledges and Being of Parliaments; This recourſe to
+the good affections of thoſe that tender their Religion, and juſt
+Li<g ref="char:EOLhyphen"/>berties, and the Enjoyment of the bleſſed fruits of this pre<g ref="char:EOLhyphen"/>ſent
+Parliament, which were almoſt ready to be reaped, and are now as ready to be
+ruined by thoſe wicked hands; being the onely remedy left them, under God,
+and without which they are no longer able to preſerve themſelves, or
+thoſe by whom they are entruſted.</hi>
+            </p>
+            <pb n="5" facs="tcp:153932:3"/>
+            <!-- PDF PAGE 30 -->
+            <p n="1">1. They the ſaid Lords and Commons doe De<g ref="char:EOLhyphen"/>clare, That
+whoſoever ſhall bring in any proportion of ready Money, or Plate, or
+ſhall underwrite to fur<g ref="char:EOLhyphen"/>niſh and maintain any number of Horſe,
+Horſemen, and Arms, for the preſervation of the publike Peace, and for the
+defence of the King, and both Houſes of Parliament from force and violence,
+and to uphold the Power and Priviledges of Parliament, according to his
+Proteſtation, it ſhall be held a good and accep<g ref="char:EOLhyphen"/>table ſervice to the
+Common wealth, and a teſtimo<g ref="char:EOLhyphen"/>ny of his good affection to the Proteſtant
+Religion, the Laws, Liberties, and Peace of this Kingdom, and to the
+Parliament, and Priviledges thereof.</p>
+            <p>And becauſe a conſiderable ayd cannot be raiſed by few
+hands, and the condition of all mens eſtates and occaſions, is not alwayes
+proportionable to their Affection; The Lords and Commons doe Declare, That no
+mans Affection ſhall be meaſured according to the proportion of his offer,
+ſo that he expreſſe his good will to this ſervice in any proportion
+whatſoe<g ref="char:EOLhyphen"/>ver.</p>
+            <p n="2">2. And it is further Declared by the Lords and Commons in
+Parliament, That whoſoever ſhall bring in any Money or Plate, or ſhall
+furniſh and maintain any Horſe, Horſemen, and Arms for the purpoſes
+aforeſaid, ſhall have their Money re-paid, with the Intereſt, according
+to Eight pounds <hi>per cent.</hi> and the full value of their Plate, with
+conſideration for the faſhion, not exceeding one ſhilling <hi>per</hi>
+ounce, and ſhall have full recompence for all their charge, in finding,
+furniſhing, and maintaining of Horſe, Horie<g ref="char:EOLhyphen"/>men, 
+<pb n="6" facs="tcp:153932:4"/>
+               <!-- PDF PAGE 31 -->and Arms; and for this both
+Houſes of Parlia<g ref="char:EOLhyphen"/>ment doingage the publike Faith.</p>
+            <p n="3">3. And it is Ordained, That Sir <hi>John Wallaſton,</hi>
+Knight and Alderman, Alderman <hi>Touſe,</hi> Alderman <hi>Warner,</hi> and
+Alderman <hi>Andrews,</hi> ſhall be the Treaſu<g ref="char:EOLhyphen"/>rers to receive all ſuch
+Money, and Plate, as ſhall be brought in for the purpoſes aforeſaid. And
+that the Acquitrances of them, or any two of them, for the Receit of the ſame
+ſhall be a ſufficient ground for the Party ſo lending Money or Plate, to
+demand the ſame again with the Intereſt, and likewiſe conſidera<g ref="char:EOLhyphen"/>tion
+for the faſhion of the Plate.</p>
+            <p n="4">4. It is Ordered, That ſhall be Commiſſaries to
+value the Horſe and Arms that ſhall be furniſhed for this ſervice; and
+that a ſig<g ref="char:EOLhyphen"/>nification under the hands of them, or any two of them of ſuch
+values of the Horſe and Arms, and of the time when they were firſt brought
+in, ſhall be a Warrant to demand ſatisfaction according to the ſaid
+values, and they ſhall keep an account of the time, from the firſt
+Inrolment of any ſuch Horſe and Horſemen, That ſuch as find and
+maintain them, may be re-paid according to the rate of 2. s. 6. d.
+<hi>perdiem,</hi> for ſo long time as they have maintained them in this
+ſervice; And the Commiſſaries are to attend at <hi>Guild<g ref="char:EOLhyphen"/>hall,</hi> for
+the receiving and inrolling of ſuch numbers of Horſe as ſhall be brought
+in.</p>
+            <p n="5">5. It is Ordered, That whoſoever ſhall bring in 
+<pb n="7" facs="tcp:153932:4"/>
+               <!-- PDF PAGE 31 -->Money, or Plate, or ſhall
+provide and maintain Horſe, Horſemen, and Arms for this ſervice, ſhall
+do according to their duty therein. And the Lords and Commons doe ingage the
+Power and Authoritie of Parliament, to ſave them harmleſſe from all
+preju<g ref="char:EOLhyphen"/>dice and inconvenience that may befall them by oc<g ref="char:EOLhyphen"/>caſion thereof.</p>
+            <p n="6">6. It is Ordered, That the Members of either Houſe who
+are preſent, ſhall be deſired to Declare in their Houſes
+reſpectively, what Money, or Plate they will bring in, or what Horſe,
+Horſemen, and Arms they will finde and maintain.</p>
+            <p n="7">7. It is deſired, That all ſuch as have their
+reſi<g ref="char:EOLhyphen"/>dence in or about <hi>London,</hi> or within 80 miles, will bring in
+their Money, Plate, or Horſe, within a fort<g ref="char:EOLhyphen"/>night after notice; and they that
+dwell farther off, within three weeks.</p>
+            <p n="8">8. And becauſe every Perſon may not be provi<g ref="char:EOLhyphen"/>ded with
+preſent Money, or with Horſe, or not have his Plate with him, which he
+means to bring in, and yet reſolves to contribute his part within the time
+li<g ref="char:EOLhyphen"/>mited, and that it is neceſſary it ſhould be preſently known what
+the proviſion will be, for the effecting of this great and important
+ſervice; It is Ordered, That the Committees of either Houſe, appointed for
+that purpoſe reſpectively, ſhall receive the ſub<g ref="char:EOLhyphen"/>ſcriptions of ſuch
+Members of each Houſe, as have not declared themſelves in the Houſe, or
+are abſent <pb n="8" facs="tcp:153932:5"/>
+               <!-- PDF PAGE 32 -->upon the publike
+ſervice, or for their private occa<g ref="char:EOLhyphen"/>ſions. 2. That the Committee of
+<hi>London</hi> intruſted with the <hi>Militia,</hi> ſhall receive the
+ſubſcriptions in <hi>London</hi> and <hi>Middleſex.</hi> 3. That ſome
+Perſons nomi<g ref="char:EOLhyphen"/>nated by the Knights and Burgeſſes of each Countie, and
+approved by both Houſes, ſhall be appointed to receive the
+ſubſcriptions in the ſeverall Counties.</p>
+            <p n="9">9. And laſtly, it is Declared, That whatſoever is
+brought in, ſhall not at all be imployed upon any other occaſion, then to
+the purpoſes aforeſaid; which are to maintain the Proteſtant Religion,
+the Kings Authority, and His Perſon, in His Royall Dignity, the free courſe
+of Juſtice, the Laws of the Land, the Peace of the Kingdom, and the
+Priviledge of Parlia<g ref="char:EOLhyphen"/>ment, againſt any force which ſhall oppoſe them. And
+this by the direction of both Houſes of Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <div type="part">
+               <head>Die Jovis <hi>2<hi rend="sup">d</hi>.</hi> Junii, <hi>1642.</hi>
+               </head>
+               <p>IT is this day Ordered by the Commons now aſſembled in
+Parlia<g ref="char:EOLhyphen"/>ment, That the ſeverall Members of this Houſe, do forthwith give
+their Attendance upon the publique Service of this Commonwealth with which they
+are entruſted by their Countreys. And the Sheriffs of the ſeverall Counties
+of this Kingdom of <hi>England</hi> and Dominion of <hi>Wales</hi> are required
+to give Notice of this Order unto all ſuch Members of the Houſe of
+<hi>Commons</hi> as are within their reſpective Counties; and ſpeedily to
+make return of ſuch their doings, unto the <hi>Speaker</hi> of that Houſe:
+And all ſuch as ſhall not make their perſonall appearance by the
+ſixteenth day of this inſtant <hi>June,</hi> in the Houſe of
+<hi>Commons,</hi> ſhall each one forfeit one hundred pounds, to be
+diſpoſed of to the Wars in <hi>Ireland,</hi> and undergo ſuch further
+cenſure and puniſhment as the ſaid Houſe ſhall think fit for ſo
+great neglect of their duty in a time that ſo neceſſarily requires their
+aſſiſtance.</p>
+               <p>Provided alwayes, That all ſuch as are ſpecially imployed
+by this Houſe, are to remain in ſuch imployments, untill they ſhall have
+parti<g ref="char:EOLhyphen"/>cular directions for their return.</p>
+               <p>
+                  <hi>Ordered that it be forthwith Printed.</hi>
+               </p>
+               <closer>
+                  <signed>H. Elſynge Cler. Parl. D.
+Com.</signed>
+               </closer>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:153932:5"/>
+               <!-- PDF PAGE 32 -->
+               <pb facs="tcp:153932:6"/>
+               <!-- PDF PAGE 33 -->
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
